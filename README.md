@@ -12,8 +12,8 @@ At the end of the this project, will be able to;
 
 - Demonstrate their knowledge of algorithmic design principles.
 
-
 ![Form](./src/helpers/animation.gif)
+
 ## Problem Statement
 
 - Design a fortune cards page following the design and fill in the data using axios in JS.
