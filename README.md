@@ -8,19 +8,19 @@ The project aims to display horoscope around the world using data.
 
 At the end of the this project, will be able to;
 
-- analyze a problem, create a weather condition app populated with a data.
+- Analyze a problem, create a card application filled with data.
 
-- demonstrate their knowledge of algorithmic design principles.
+- Demonstrate their knowledge of algorithmic design principles.
 
 
 ![Form](./src/helpers/animation.gif)
 ## Problem Statement
 
-- Design a weather condition page following the design and populate data for searched city with using of axios in JS.
+- Design a fortune cards page following the design and fill in the data using axios in JS.
 
 ## User story;
 
--- The user can view the desired fortune-telling status on that card.
+- The user can view the desired fortune-telling status on that card.
 - User can view list of data card as in gif.
 
 <br>
