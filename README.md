@@ -2,7 +2,7 @@
 
 ## Description
 
-The project aims to display horoscope around the world using data data.
+The project aims to display horoscope around the world using data.
 
 ## Learning Outcomes
 
